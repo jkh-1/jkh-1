@@ -1,3 +1,18 @@
+### Hi there 👋 welcome to my Github!
+
+<p align="center">
+  <img width="250" src="[https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif](https://tenor.com/view/bongo-cat-typing-keyboard-smash-gif-17773853)">
+</p>
+
+
+<p align="center">
+<a href= "https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
+<a href= "https://twitter.com/ari_hacks"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+</p>
+
+<p align="center">
+Check out my repos ⬇️  
+</p>
 <!--
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!&animation=fadeIn&type=waving&color=gradient&height=100"/>
@@ -21,14 +36,8 @@ CAD: 3D Modeling & Engineering Design
 <a href="https://www.instagram.com/jhuang3651/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
----
-title: ari_hacks
-date: '2020-07-14'
-spoiler: Creativity Readme Template
-categories: ["creativity", "all-profile"]
-githubUsername: 'ari_hacks'
----
-**
+
+
 
 ### Hi there 👋 welcome to my Github!
 
